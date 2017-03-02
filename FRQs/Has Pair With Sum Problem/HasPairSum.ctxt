@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arr\ sum
+comment0.target=boolean\ hasPairWithSumSorted(int[],\ int)
+comment1.params=arr\ sum
+comment1.target=boolean\ hasPairWithSumUnsorted(int[],\ int)
+comment2.params=arr\ sum
+comment2.target=boolean\ hasPairUnsorted(int[],\ int)
+numComments=3

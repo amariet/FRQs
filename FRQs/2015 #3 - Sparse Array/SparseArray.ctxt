@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SparseArray()
+comment1.params=
+comment1.target=int\ getNumRows()
+comment2.params=
+comment2.target=int\ getNumCols()
+comment3.params=row\ col
+comment3.target=int\ getValueAt(int,\ int)
+comment4.params=col
+comment4.target=void\ removeColumn(int)
+numComments=5
