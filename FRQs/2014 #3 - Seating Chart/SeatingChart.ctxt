@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=studentList\ rows\ cols
+comment0.target=SeatingChart(java.util.List,\ int,\ int)
+comment0.text=Part\ A
+comment1.params=allowedAbsences
+comment1.target=int\ removeAbsentStudents(int)
+comment1.text=Part\ B
+numComments=2
